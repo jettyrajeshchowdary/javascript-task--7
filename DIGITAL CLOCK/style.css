@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    margin: 0;
+  }
+  
+  .clock {
+    font-size: 7rem;
+  }
+  
